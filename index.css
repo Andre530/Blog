@@ -7,7 +7,7 @@ header {
     padding: 10px 20px;
     display: flex;
 
-    align-items: center;
+   justify-content: space-between;
 }
 
 #titulo_header {
@@ -26,12 +26,12 @@ header {
 
     align-items: start;
     justify-content: space-around;
-    margin: 2%;
+    margin: 0%;
 }
 
 #titulo_section {
     font-size: 90px;
-    
+    justify-content: center;
 
 }
 
