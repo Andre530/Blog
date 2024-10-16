@@ -1,0 +1,19 @@
+#titulo_section {
+    display: flex; /* Adiciona flexbox */
+    justify-content: center; /* Centraliza horizontalmente */
+    align-items: center; /* Centraliza verticalmente, se necessário */
+    color: white;
+}
+
+.paragrafos_section {
+  color: white;
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center; /* Centraliza o texto */
+}
+
+.texto_section {
+    color: white;
+    text-align: center; /* Centraliza o texto */
+    
+}

@@ -1,0 +1,21 @@
+header {
+    height: 15vh;
+    width: 100%;
+    display: flex;
+    justify-content: start; /* Centraliza horizontalmente */
+    align-items: center; /* Centraliza verticalmente */
+}
+
+#titulo_header {
+    color: rgba(255, 0, 0, 0.861);
+    text-align: center; /* Centraliza o texto, se necessário */
+    
+}
+
+#imagem_header {
+    width: 8vw;
+    margin: 0;
+    display: flex; /* Flex é redundante aqui, mas pode ser mantido */
+    align-items: center; /* Centraliza verticalmente a imagem */
+    justify-content: center; /* Centraliza horizontalmente a imagem */
+}
