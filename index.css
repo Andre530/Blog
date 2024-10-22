@@ -4,8 +4,8 @@
 body{
     font-family: Macondo;
  background-image: url(https://i0.wp.com/jogaod20.com/wp-content/uploads/2020/05/jogos-para-tavernas.png?fit=1000%2C1000&ssl=1) ;
- background-repeat: no-repeat; /* Não repete a imagem */
- background-size: cover; /* Ajusta a imagem para cobrir o elemento */
+ background-repeat: no-repeat; 
+ background-size: cover;
 
 
 }
