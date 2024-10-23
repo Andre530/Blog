@@ -1,0 +1,8 @@
+#button_footer{
+    height: 4vh;
+    border-radius: 2vh;
+    cursor: pointer;
+  color: yellow;
+background-color: rgb(255, 94, 0);
+
+}

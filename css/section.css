@@ -1,0 +1,22 @@
+section {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  
+}
+
+#paragrafos_section {
+    width: 60vw;
+    height: 60vh;
+    text-align: justify;
+    font-size: 20px;
+    display: flex; 
+  color: white;
+}
+
+b {
+    color: red;
+    font-size: 1.7vw;
+    
+}

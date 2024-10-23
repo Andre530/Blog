@@ -1,0 +1,17 @@
+header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#titulo_header {
+    color: blue;
+    height: 12vh;
+    display: flex;
+    width: 100%;
+}
+
+#imagem_header {
+    width: 8vw;
+    margin: 0;
+}
