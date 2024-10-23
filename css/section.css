@@ -7,16 +7,15 @@ section {
 }
 
 #paragrafos_section {
-    width: 60vw;
+    width: 80vw;
     height: 60vh;
     text-align: justify;
-    font-size: 20px;
+    font-size: 30px;
     display: flex; 
   color: white;
 }
-
 b {
     color: red;
-    font-size: 1.7vw;
-    
-}
+    font-size: 2.2vw;
+  font-family: King;
+  }
