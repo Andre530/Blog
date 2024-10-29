@@ -6,12 +6,12 @@ header {
 
 #titulo_header {
     color: blue;
-    height: 12vh;
+    height: 11vh;
     display: flex;
     width: 100%;
 }
 
 #imagem_header {
-    width: 8vw;
+    width: 9vw;
     margin: 0;
 }
