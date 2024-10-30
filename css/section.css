@@ -6,17 +6,17 @@ section {
   
 }
 
-#paragrafos_section {
-    width: 65vw;
-    height: 60vh;
-    text-align: justify;
-    font-size: 30px;
-    display: flex; 
-  color: white;
+#texto{
+  width: 50%;
 }
-b {
+
+#paragrafos_section {
+    text-align: justify;
+    color: white;
+    font-size: 1.5vw;
+}
+#paragrafos_section b{
     color: red;
     font-size: 3vw;
-  font-family: King;
- 
+    font-family: King;
   }
