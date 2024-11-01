@@ -1,5 +1,5 @@
 section {
-    width: 100%;
+    width: 100vw;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -7,7 +7,7 @@ section {
 }
 
 #texto{
-  width: 50%;
+  width: 50vw;
 }
 
 #paragrafos_section {
@@ -20,3 +20,35 @@ section {
     font-size: 3vw;
     font-family: King;
   }
+
+  @media (max-width: 450px) {
+    section {
+        width: 69vw;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+    }
+
+    #texto {
+        width: 50vw; 
+    }
+
+    #paragrafos_section {
+        display: flex;
+        
+        color: white;
+        font-size: 3vw; 
+        width: 71vw;   
+     
+        font-family: King;
+    }
+    }
+
+   
+       
+
+
+   
+  
+  
